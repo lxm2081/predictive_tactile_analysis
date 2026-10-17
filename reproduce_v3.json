@@ -1,0 +1,12 @@
+{
+  "start_frame": 80,
+  "contact_fraction": 0.2,
+  "ridge": 0.001,
+  "threshold_percentile": 99.5,
+  "persistence_frames": 3,
+  "expected_rows": 44,
+  "expected_columns": 44,
+  "expected_frames_per_trial": 500,
+  "expected_trials": 30,
+  "verification_atol": 1e-05
+}
