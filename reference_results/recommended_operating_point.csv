@@ -1,0 +1,2 @@
+threshold_rule,threshold,persistence_frames,persistence_time_ms,anomaly_trials_detected,anomaly_trials_total,normal_test_trials_flagged,normal_test_trials_total,mean_distance_to_detection_mm,end_stop_controls_flagged,end_stop_controls_total
+99.5th percentile of normal validation predictive mismatch,2.3054032837793406,3,15.0,12,12,0,2,0.05833333333333335,4,4

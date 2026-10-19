@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.DS_Store
+outputs/
+data/*.npz
+data/trial_manifest.csv
+data/*.zip

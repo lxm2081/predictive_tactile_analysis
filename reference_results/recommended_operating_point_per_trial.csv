@@ -1,0 +1,13 @@
+trial_id,condition,detected,detection_frame,distance_to_detection_mm
+Z44V3_012,weak_jam,True,292,0.25
+Z44V3_013,weak_jam,True,292,0.025
+Z44V3_014,weak_jam,True,294,0.025
+Z44V3_016,strong_jam,True,301,0.15
+Z44V3_017,strong_jam,True,295,0.025
+Z44V3_018,strong_jam,True,293,0.025
+Z44V3_020,unilateral_slip,True,294,0.025
+Z44V3_021,unilateral_slip,True,298,0.075
+Z44V3_022,unilateral_slip,True,287,0.025
+Z44V3_024,bilateral_slip,True,291,0.025
+Z44V3_025,bilateral_slip,True,292,0.025
+Z44V3_026,bilateral_slip,True,283,0.025

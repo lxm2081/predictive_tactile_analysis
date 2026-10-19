@@ -1,0 +1,29 @@
+condition,method,test_AUC
+weak_jam,Predictive mismatch,0.928216959511077
+weak_jam,Unweighted predictive,0.7681038961038962
+weak_jam,Raw frame difference,0.2749396485867074
+weak_jam,Raw-difference deviation,0.44659434682964094
+weak_jam,Static tactile-code template,0.5898762414056531
+weak_jam,Tactile-code difference,0.5627746371275784
+weak_jam,Peak pressure,0.5167012987012987
+strong_jam,Predictive mismatch,0.9254054264774676
+strong_jam,Unweighted predictive,0.8014027496231613
+strong_jam,Raw frame difference,0.09881458235875044
+strong_jam,Raw-difference deviation,0.7724332735589168
+strong_jam,Static tactile-code template,0.6652405270544208
+strong_jam,Tactile-code difference,0.7265190498466657
+strong_jam,Peak pressure,0.5737142003222621
+unilateral_slip,Predictive mismatch,0.9476787398427303
+unilateral_slip,Unweighted predictive,0.8092338248796118
+unilateral_slip,Raw frame difference,0.34746138519864844
+unilateral_slip,Raw-difference deviation,0.4747512600948116
+unilateral_slip,Static tactile-code template,0.563601216686341
+unilateral_slip,Tactile-code difference,0.5693286364743577
+unilateral_slip,Peak pressure,0.46074031741273025
+bilateral_slip,Predictive mismatch,0.9343391028639741
+bilateral_slip,Unweighted predictive,0.7351473569312335
+bilateral_slip,Raw frame difference,0.20629320650761473
+bilateral_slip,Raw-difference deviation,0.5363486927594989
+bilateral_slip,Static tactile-code template,0.513754613025625
+bilateral_slip,Tactile-code difference,0.6774520505223766
+bilateral_slip,Peak pressure,0.46168427413067203
